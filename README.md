@@ -1,3 +1,4 @@
+# Just a JS object version of dysfunc/ascii-emoji
 ```
 ʘ‿ʘ
 innocent face 
